@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `A New York City Diary`,
+    name: `A New York City Diary`,
+    siteUrl: `https://multibdoyle.com`,
+    description: `Food, fashion and funky futuristic flippancy. Mostly food.`,
     hero: {
       heading: `A New York City Diary`,
       maxWidth: 652,
