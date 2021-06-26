@@ -41,8 +41,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
+        name: `Brendan's Personal Website`,
+        short_name: `NYC Diary`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
@@ -55,6 +55,12 @@ module.exports = {
       options: {
         trackingId: "UA-169387969-1"
       },
+    },
+    {
+      resolve: `gatsby-plugin-disqus`,
+      options: {
+          shortname: `https-multibdoyle-com`
+      }
     },
   ],
 };

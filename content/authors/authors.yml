@@ -1,7 +1,7 @@
 - name: Brendan Doyle
   bio: |
-    Director of Technology, writer, foodie
-  avatar: ./avatars/dennis-brotzky.jpg
+    Christian, writer, foodie
+  avatar: ./avatars/skeleton_profile.png
   social:
     - url: https://github.com/multibdoyle
     - url: https://stackoverflow.com
