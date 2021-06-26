@@ -56,11 +56,6 @@ module.exports = {
         trackingId: "UA-169387969-1"
       },
     },
-    {
-      resolve: `gatsby-plugin-disqus`,
-      options: {
-          shortname: `https-multibdoyle-com`
-      }
-    },
+   
   ],
 };
